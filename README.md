@@ -78,8 +78,8 @@
 
 </div>
 
-<!-- Project 1 -->
-<h3 id="project1">Project 1: Predictive Maintenance for Industrial IoT Sensors </h3>
+<!-- Project 1 --> 
+<h3 id="project1"> Project 1:  Predictive Maintenance for Industrial IoT Sensors </h3>
 <p>
  Developed an end-to-end machine learning solution to predict industrial machine failure risk using sensor data. The project includes data preprocessing, physics-informed feature engineering, Random Forest and XGBoost model comparison, cross-validation, and an interactive Streamlit dashboard for prediction and data analysis
 </p>
