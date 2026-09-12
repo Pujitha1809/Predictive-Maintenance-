@@ -98,36 +98,39 @@
 
 
 ## **Learnings from LST and SST**
+> The LST and SST sessions played an important role in my overall development beyond the technical coursework. These interactive sessions helped me improve my communication, confidence, teamwork, discipline, leadership, and professional attitude. Regular Sunday sessions encouraged me to actively participate, express my thoughts, interact with others, and learn from different perspectives.
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
+> The sessions also helped me understand the importance of consistency, time management, adaptability, and effective communication in a professional environment. Rather than focusing only on technical knowledge, they helped me develop the mindset and interpersonal skills required to work effectively in a team and handle real-world professional situations.
+
+> Overall, the LST and SST sessions complemented my technical learning and contributed significantly to my journey towards becoming more confident, professional, and industry-ready.
 ---
 
 ## **Community Services**
 
-<!-- add descreption in your own words -->
+During my internship period, I participated in multiple community-oriented activities that helped me understand the importance of social responsibility beyond academics and technical learning.
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+🌳 Tree Plantation – Planted 8 long-life tree saplings as a step towards promoting a greener and healthier environment.
+❤️ Serving Senior Citizens – Served food to 8 senior citizens, an experience that strengthened my understanding of empathy, kindness, and respect for the elderly.
+
+These activities taught me that meaningful contribution does not always require something big—small acts of service, when done with sincerity, can create a positive impact on people and the environment. They also helped me develop greater empathy, communication, coordination, and a stronger sense of social responsibility.
 
 ### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
+  **Mumbai**
+- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement
   
- <!-- add the location where you have panted -->
-- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
-
-  <!-- add the location where you helped -->
+  **Mumbai**
 - **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
 
-<!-- you can write impacts according to your experience in your words-->
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
-- Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
-- Improved skills in communication, coordination, and social responsibility.
+- Contributed to the community through meaningful service activities beyond academic learning.
+- Helped promote environmental responsibility by planting 8 long-life tree saplings.
+- Supported senior citizens by serving food to 8 individuals, creating a small but meaningful moment of care and connection.
+- Contributed to the blood donation initiative and helped support a cause that can benefit people in need.
+- Developed greater empathy, social awareness, communication, coordination, and responsibility through direct community interaction.
+- Learned that even small individual efforts can contribute to positive change in society.
+- Gained a deeper understanding that personal and professional growth also comes from giving back to the community.
 
 ### **Photos**
 
