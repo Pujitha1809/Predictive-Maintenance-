@@ -73,13 +73,71 @@
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;Predictive Maintenance for Industrial IoT Sensors</p>
+<p><strong><a href="#project1">Project 1: SentiCore</a></strong> — NLP Sentiment Analysis</p>
+
+<p><strong><a href="#project2">Project 2: Smart Document Scanner</a></strong> — Computer Vision</p>
+
+<p><strong><a href="#project3">Project 3: Traffic CV Project</a></strong> — Computer Vision & Deep Learning</p>
+
+<p><strong><a href="#project4">Project 4: Predictive Maintenance for Industrial IoT Sensors</a></strong> — Machine Learning & Industrial IoT</p>
+
 
 
 </div>
+<hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
+<h3 id="project1">Project 1: SentiCore</h3>
+
+<p>
+<b>SentiCore</b> is a Natural Language Processing (NLP) based sentiment analysis application developed to classify textual data into different sentiment categories such as positive, negative, and neutral. The project provided practical understanding of the complete NLP workflow, including text preprocessing, feature extraction, model training, evaluation, and prediction.
+</p>
+
+<p>
+Through this project, I gained hands-on experience in text analytics, sentiment analysis, and building machine learning pipelines for real-world textual datasets.
+</p>
+
+<p>
+<b>Key Technologies:</b> Python, Natural Language Processing (NLP), Scikit-learn, Pandas, NumPy
+</p>
+
+
+<hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
+
+<h3 id="project2">Project 2: Smart Document Scanner</h3>
+
+<p>
+<b>Smart Document Scanner</b> is a Computer Vision application developed to convert photographs of documents into clean, high-quality scanned images. The project detects document boundaries, corrects perspective distortion, removes unwanted background regions, and enhances image quality.
+</p>
+
+<p>
+This project provided practical exposure to image preprocessing, contour detection, edge detection, perspective transformation, image thresholding, and document enhancement using OpenCV.
+</p>
+
+<p>
+<b>Key Technologies:</b> Python, OpenCV, NumPy, Image Processing
+</p>
+
+
+<hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
+
+<h3 id="project3">Project 3: Traffic CV Project</h3>
+
+<p>
+<b>Traffic CV Project</b> is a Computer Vision application developed to analyze traffic scenes using image processing and deep learning techniques. The project focuses on extracting useful information from traffic images and videos for intelligent transportation and smart-city applications.
+</p>
+
+<p>
+The project strengthened my understanding of computer vision, object detection, image analysis, and traffic monitoring, while demonstrating how AI can be applied to automate traffic surveillance and support road-safety applications.
+</p>
+
+<p>
+<b>Key Technologies:</b> Python, OpenCV, Computer Vision, Deep Learning
+</p>
+
+
+<hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 <!-- Project 1 --> 
-<h3 id="project1"> Project 1:  Predictive Maintenance for Industrial IoT Sensors </h3>
+<h3 id="project1"> Project 4:  Predictive Maintenance for Industrial IoT Sensors </h3>
 <p>
  Developed an end-to-end machine learning solution to predict industrial machine failure risk using sensor data. The project includes data preprocessing, physics-informed feature engineering, Random Forest and XGBoost model comparison, cross-validation, and an interactive Streamlit dashboard for prediction and data analysis
 </p>
