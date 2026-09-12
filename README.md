@@ -18,11 +18,11 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> < !--Pujitha Mamidishetty--> </p>
-    <p><strong>Email ID:</strong> < !--pujitha23130@gmail.com--> </p>
-    <p><strong>College Name:</strong> <!-- Usha Mittal Institute of Technology, Mumbai--> </p>
-    <p><strong>Branch/Specialization :</strong> < !--Btech Data Science--> </p>
-    <p><strong>College ID:</strong> <!--2315031--> </p>
+    <p><strong>Name:</strong> < Pujitha Mamidishetty> </p>
+    <p><strong>Email ID:</strong> < pujitha23130@gmail.com> </p>
+    <p><strong>College Name:</strong> <Usha Mittal Institute of Technology, Mumbai> </p>
+    <p><strong>Branch/Specialization :</strong> < Btech Data Science> </p>
+    <p><strong>College ID:</strong> <2315031> </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
@@ -30,19 +30,19 @@
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Course Opted:</strong> <Artificial Intelligence & Machine Learning - G38 AI&ML> </p>
-    <p><strong>Instructor Name:</strong> <> </p>
+    <p><strong>Instructor Name:</strong> <Mr. Gaurav Patel > </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> <6 Months> </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Name:</strong> <Mr. Gaurav Patel></p>
+<p><strong>Trainer Email ID:</strong> <></p>
+<p><strong>Trainer Designation:</strong> <Data Engineer at Celebal Technologies></p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -63,10 +63,11 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+> This internship was a transformative experience that helped me grow both technically and professionally. Working on a real-world machine learning project strengthened my skills in data analysis, feature engineering, model building, validation, and deployment, while teaching me how to approach problems with a practical and solution-oriented mindset.
+
+> Beyond the technical coursework, the three-week Soft Skills sessions and the interactive learning sessions conducted every Sunday had a significant impact on my overall development. These sessions helped me improve my communication, confidence, professionalism, teamwork, and ability to approach real-world situations with greater clarity.
+
+> The experience taught me that becoming industry-ready is not just about technical knowledge—it is about how effectively we communicate, collaborate, learn, adapt, and turn knowledge into meaningful solutions. This internship has given me a stronger foundation to step into the professional world with greater confidence, responsibility, and readiness.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
