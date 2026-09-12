@@ -18,31 +18,31 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> < Pujitha Mamidishetty> </p>
-    <p><strong>Email ID:</strong> < pujitha23130@gmail.com> </p>
-    <p><strong>College Name:</strong> <Usha Mittal Institute of Technology, Mumbai> </p>
-    <p><strong>Branch/Specialization :</strong> < Btech Data Science> </p>
-    <p><strong>College ID:</strong> <2315031> </p>
+    <p><strong>Name:</strong>  Pujitha Mamidishetty </p>
+    <p><strong>Email ID:</strong> pujitha23130@gmail.com </p>
+    <p><strong>College Name:</strong> Usha Mittal Institute of Technology, Mumbai </p>
+    <p><strong>Branch/Specialization :</strong>  Btech Data Science </p>
+    <p><strong>College ID:</strong> 2315031 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <Artificial Intelligence & Machine Learning - G38 AI&ML> </p>
-    <p><strong>Instructor Name:</strong> <Mr. Gaurav Patel > </p>
+    <p><strong>Course Opted:</strong> Artificial Intelligence & Machine Learning - G38 AI&ML </p>
+    <p><strong>Instructor Name:</strong> Mr. Gaurav Patel  </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <6 Months> </p>
+    <p><strong>Duration:</strong> 6 Months </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <Mr. Gaurav Patel></p>
+<p><strong>Trainer Name:</strong> Mr. Gaurav Patel</p>
 <p><strong>Trainer Email ID:</strong> <></p>
-<p><strong>Trainer Designation:</strong> <Data Engineer at Celebal Technologies></p>
+<p><strong>Trainer Designation:</strong> Data Engineer at Celebal Technologies</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
